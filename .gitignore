@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+credentials.json
+.env
+credentials.json
+git commit --amend -m "Remove secrets"
